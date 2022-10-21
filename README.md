@@ -1,16 +1,6 @@
 # Tutorials
 
-![YouTube Art](assets/youtube-art.png?raw=true "Title")
-
-# Support
-
-☕ - [Buy Me a Coffee](https://www.buymeacoffee.com/antonputra)
-
-# Contents
-
-📚 - [Lessons](docs/contents.md)
-
-# Social
+efs man - lessons -0 41
 
 🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
 🎮 - [Discord](https://discord.gg/Wy5SPDSTjX)  
